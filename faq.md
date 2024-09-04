@@ -1,3 +1,5 @@
+# FAQ fullremote.it
+
 ## Cos'è un Employer of Record (EOR) e come può aiutarmi a lavorare per un'azienda estera?
 Un Employer of Record (EOR) è un'azienda che gestisce gli aspetti legali e amministrativi dell'impiego per conto di un'altra azienda. Per gli sviluppatori italiani, lavorare con un EOR significa poter collaborare con aziende estere senza dover aprire una partita IVA o preoccuparsi di conformarsi alle normative lavorative locali del paese dell'azienda. L'EOR gestisce buste paga, tasse e altri aspetti contrattuali. [Deel.com](https://deel.com) e [Remote.com](https://remote.com) sono EOR
 
