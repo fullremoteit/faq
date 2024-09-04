@@ -9,6 +9,9 @@ Dipende dalla tua situazione lavorativa. Se lavori come freelance o consulente, 
 ## Quali sono i vantaggi e gli svantaggi di lavorare con una partita IVA?
 I vantaggi includono maggiore flessibilità e la possibilità di lavorare con più clienti. Gli svantaggi sono la responsabilità di gestire autonomamente le proprie tasse, contributi previdenziali e la complessità amministrativa.
 
+## Conviene il regime forfettario o ordinario?
+Il regime forfettario, quando applicabile, ha una tassazione più bassa rispetto al regime ordinario. Tuttavia, il regime forfettario non permette la deduzione delle spese di lavoro così come invece accade per il regime ordinario. È quindi importante affidarsi ad un commercialista che, in base alla tua situazione, sarà in grado di indicarti il regime per te più conveniente.
+
 ## Come gestire il fuso orario quando si lavora con aziende di altri paesi?
 È importante stabilire un orario di lavoro che sia accettabile sia per te che per l'azienda. Spesso, le aziende consentono una certa flessibilità, ma è cruciale comunicare chiaramente le tue disponibilità. Strumenti come Google Calendar o Slack possono aiutare a coordinare le riunioni in fusi orari diversi.
 
