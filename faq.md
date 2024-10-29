@@ -49,3 +49,15 @@ Considera il fuso orario, la modalità di pagamento, la stabilità dell'azienda,
 - [FlowCV](https://flowcv.com/) è una piattaforma online che permette di creare curriculum vitae professionali in modo semplice e intuitivo. Offre modelli personalizzabili e strumenti per evidenziare le competenze e le esperienze lavorative, facilitando la candidatura per posizioni lavorative.
 - [Overleaf](https://www.overleaf.com/) è una piattaforma online di scrittura e collaborazione per documenti LaTeX, ideale per la creazione di articoli scientifici, tesi, cv e presentazioni. Ad esempio potete usare [questo template](https://github.com/alexcalabrese/techResume).
 - [ResumeMaker](https://www.resumemaker.online/) è una piattaforma online che consente di creare curriculum vitae personalizzati in modo rapido e intuitivo. Offre modelli professionali, suggerimenti per il contenuto e strumenti per ottimizzare il CV per diverse posizioni lavorative, facilitando il processo di candidatura.
+
+## Dove cercare lavori IT per l'estero (in remote o meno)?
+
+- [fullremote.it](https://fullremote.it)
+- [Remote.com](https://Remote.com)
+- [otta.com](https://otta.com)
+- [relocate.me](https://relocate.me)
+- [flexrem.com](https://flexrem.com)
+- [Remotive.com](https://Remotive.com)
+- [cord.co](https://cord.co)
+- [circular.io](https://circular.io)
+- [talent.io](https://talent.io)
