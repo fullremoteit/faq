@@ -60,5 +60,4 @@ Considera il fuso orario, la modalità di pagamento, la stabilità dell'azienda,
 - [remotive.com](https://remotive.com)
 - [cord.co](https://cord.co)
 - [circular.io](https://circular.io)
-- [talent.io](https://talent.io)
 - [remoteur.com](https://remoteur.com)
