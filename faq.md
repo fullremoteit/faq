@@ -61,3 +61,31 @@ Considera il fuso orario, la modalità di pagamento, la stabilità dell'azienda,
 - [cord.co](https://cord.co)
 - [circular.io](https://circular.io)
 - [remoteur.com](https://remoteur.com)
+
+## Posso ottenere benefit aziendali lavorando da remoto?
+
+Sì, molte aziende remote offrono benefit come assicurazione sanitaria, bonus formazione, o budget per l'attrezzatura di lavoro. Verifica sempre cosa include il contratto.
+
+## Come gestire le riunioni frequenti lavorando da remoto?
+
+Stabilisci con il team regole per limitare le riunioni non necessarie, utilizzando strumenti come Slack o altri tool per aggiornamenti asincroni o riunioni brevi (huddle) e mirate con metodologie come lo stand-up.
+
+## Quali tasse devo pagare lavorando per un'azienda estera?
+
+Dipende dalla tua residenza fiscale. In Italia, pagherai le tasse sul reddito globale, a meno che non ci siano trattati di doppia imposizione con il paese dell'azienda. Un commercialista può aiutarti.
+
+## Come evitare la solitudine lavorando da remoto?
+
+Partecipa a community online o eventi locali, utilizza spazi di coworking, e considera attività di team building virtuali con il tuo gruppo di lavoro.
+
+## Quali sono le migliori pratiche per negoziare uno stipendio remoto?
+
+Considera il costo della vita nel tuo paese, ma informati anche sui salari medi del ruolo nel mercato globale. Usa piattaforme come [levels.fyi](https://levels.fyi) o [glassdoor.com](https://glassdoor.com) per benchmark salariali.
+
+## Come gestire un contratto che non include ferie retribuite?
+
+Puoi negoziare una tariffa giornaliera più alta per coprire i giorni non lavorati, oppure pianificare un budget che tenga conto dei periodi senza reddito.
+
+## Il lavoro remoto è adatto a tutti?
+
+Non sempre. Richiede capacità di autogestione, buona comunicazione asincrona e un ambiente di lavoro adeguato. È importante valutare se queste condizioni corrispondono al tuo stile di lavoro.
