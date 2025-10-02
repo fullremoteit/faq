@@ -4,6 +4,14 @@
 
 Un Employer of Record (EOR) è un'azienda che gestisce gli aspetti legali e amministrativi dell'impiego per conto di un'altra azienda. Per gli sviluppatori italiani, lavorare con un EOR significa poter collaborare con aziende estere senza dover aprire una partita IVA o preoccuparsi di conformarsi alle normative lavorative locali del paese dell'azienda. L'EOR gestisce buste paga, tasse e altri aspetti contrattuali. [Deel.com](https://deel.com) e [Remote.com](https://remote.com) sono EOR
 
+## Perché nella newsletter / nella community non vengono pubblicati annunci per ruoli junior?
+
+Gli annunci nella newsletter o nella community si concentrano principalmente su posizioni già consolidate o senior, per rispondere a richieste che le aziende fanno più spesso. Ruoli junior sono meno frequenti da parte delle aziende che cercano collaboratori remoti con esperienza consolidata.
+
+## Sono un junior: come faccio ad entrare nel mondo del lavoro remoto?
+
+Se sei all'inizio della carriera, il consiglio è di fare prima un'esperienza in ufficio o in un contesto ibrido. Questo ti permette di crescere più velocemente grazie al confronto diretto con colleghi senior, imparare metodologie di lavoro strutturate e costruire una rete di contatti. Dopo aver acquisito una base solida, sarà molto più semplice candidarti a posizioni completamente remote.
+
 ## Devo aprire una partita IVA per lavorare da remoto come sviluppatore?
 
 Dipende dalla tua situazione lavorativa. Se lavori come freelance o consulente, è necessario aprire una partita IVA per emettere fatture e gestire le tue tasse in Italia. Se invece lavori per un'azienda tramite un EOR, non è necessario avere una partita IVA, poiché l'EOR ti assumerà come dipendente.
